@@ -42,4 +42,8 @@ footer p {
     background-color: rgb(55, 13, 96);
     text-align: center;
     padding: 0.5rem;
+    position: absolute;
+    margin: 0.6rem;
+    border-radius: 0.6rem;
+    font-size: 1vw;
 }

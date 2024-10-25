@@ -29,4 +29,10 @@ footer p {
     background-color: rgb(55, 13, 96);
     height: 20rem;
     flex-grow: 1;
+    flex-basis: calc(33% - 6rem);
+}
+
+.cartao__conteudo {
+    text-align: center;
+    background-color: aquamarine;
 }
